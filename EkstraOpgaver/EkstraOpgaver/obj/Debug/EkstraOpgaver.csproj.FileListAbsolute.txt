@@ -1,0 +1,6 @@
+C:\Users\Benjamin Høj\source\repos\EkstraOpgaver\EkstraOpgaver\bin\Debug\EkstraOpgaver.exe.config
+C:\Users\Benjamin Høj\source\repos\EkstraOpgaver\EkstraOpgaver\bin\Debug\EkstraOpgaver.exe
+C:\Users\Benjamin Høj\source\repos\EkstraOpgaver\EkstraOpgaver\bin\Debug\EkstraOpgaver.pdb
+C:\Users\Benjamin Høj\source\repos\EkstraOpgaver\EkstraOpgaver\obj\Debug\EkstraOpgaver.csprojAssemblyReference.cache
+C:\Users\Benjamin Høj\source\repos\EkstraOpgaver\EkstraOpgaver\obj\Debug\EkstraOpgaver.exe
+C:\Users\Benjamin Høj\source\repos\EkstraOpgaver\EkstraOpgaver\obj\Debug\EkstraOpgaver.pdb
